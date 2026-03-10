@@ -2,15 +2,14 @@
 <h3 align="center">Frontend Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Web+Developer;HTML+CSS+JavaScript+Developer;Learning+PHP+%26+MySQL;Building+Modern+Websites" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Building+Modern+Websites" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 I am a **Frontend Web Developer**
-- 🌱 Currently learning **PHP & MySQL**
+- 🌱 I am a **Frontend Web Developer**
 - 🚀 Passionate about building **modern and responsive websites**
 - 🎯 My goal is to become a **Full Stack Web Developer**
 - 📍 Based in **Pakistan**
@@ -20,7 +19,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,git,github,php" />
 </p>
 
 ---
@@ -34,12 +33,6 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BilalWaris2008&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalWaris2008&layout=compact&theme=tokyonight)
 
 ---
 
