@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Frontend Developer Muhammad Bilal Waris</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Bilal Waris</h1>
+<h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalwaris2008&label=Profile%20views&color=0e75b6&style=flat" alt="bilalwaris2008" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+PHP+%26+Laravel;JavaScript+Enthusiast;Building+Cool+Projects" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/BilalWaris2008](https://github.com/BilalWaris2008)
+---
 
-- 💬 Ask me about **Frontend Development**
+## 🚀 About Me
+- 🌱 I’m currently learning **PHP, Laravel, MySQL**
+- 💻 I love building **Web Applications**
+- 📚 Currently studying **Advanced JavaScript**
+- 🎯 Goal: Become a **Full Stack Developer**
 
-- 📫 How to reach me **bilalwaris543@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mbilalwaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbilalwaris" height="30" width="40" /></a>
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalwaris2008&show_icons=true&locale=en&layout=compact" alt="bilalwaris2008" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalwaris2008&" alt="bilalwaris2008" /></p>
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalWaris2008&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BilalWaris2008&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalWaris2008&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/BilalWaris2008">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I love learning new technologies and building real-world projects.
