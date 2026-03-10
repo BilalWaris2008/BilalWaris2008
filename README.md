@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bilal Waris</h1>
-<h3 align="center">A Passionate Web Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Bilal Waris</h1>
+<h3 align="center">Frontend Developer from Pakistan 🇵🇰</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+PHP+%26+Laravel;JavaScript+Enthusiast;Building+Cool+Projects" />
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently learning **PHP, Laravel, MySQL**
-- 💻 I love building **Web Applications**
-- 📚 Currently studying **Advanced JavaScript**
-- 🎯 Goal: Become a **Full Stack Developer**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Web+Developer;HTML+CSS+JavaScript+Developer;Learning+PHP+%26+MySQL;Building+Modern+Websites" />
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+- 💻 I am a **Frontend Web Developer**
+- 🌱 Currently learning **PHP & MySQL**
+- 🚀 Passionate about building **modern and responsive websites**
+- 🎯 My goal is to become a **Full Stack Web Developer**
+- 📍 Based in **Pakistan**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -33,7 +37,7 @@
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalWaris2008&layout=compact&theme=tokyonight)
 
@@ -41,17 +45,26 @@
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+<p align="center">
 
 <a href="https://github.com/BilalWaris2008">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
+
+<a href="https://www.linkedin.com/in/mbilalwaris/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
 ---
 
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BilalWaris2008&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
 ## ⚡ Fun Fact
-💡 I love learning new technologies and building real-world projects.
+
+💡 I enjoy learning new technologies and building real-world web projects to improve my development skills.
