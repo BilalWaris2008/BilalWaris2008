@@ -24,12 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalWaris2008&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BilalWaris2008&theme=tokyonight)
