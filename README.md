@@ -30,6 +30,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=BilalWaris2008&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalWaris2008&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
