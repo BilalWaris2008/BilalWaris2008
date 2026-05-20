@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 I am a **Frontend Web Developer**
-- 🚀 Passionate about building **modern and responsive websites**
+- 🚀 Passionate about building **modern & responsive websites**
 - 🎯 My goal is to become a **Full Stack Web Developer**
 - 📍 Based in **Pakistan**
 
