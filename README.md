@@ -7,6 +7,9 @@
 
 ---
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/BilalWaris2008.svg)](https://user-badge.committers.top/pakistan/BilalWaris2008)
+
+
 ## 👨‍💻 About Me
 
 - 🌱 I am a **Frontend Web Developer**
