@@ -22,7 +22,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,git,github,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,git,github,php,laravel,wordpress" />
 </p>
 
 ---
