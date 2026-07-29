@@ -21,13 +21,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,laravel,mysql,wordpress,git,github,vscode,npm,nodejs" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,wordpress,git,github,vscode" />
 </p>
 
 ---
