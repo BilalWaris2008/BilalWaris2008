@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Waris</h1>
-<h3 align="center">Frontend Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">Full Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Building+Modern+Websites;HTML+|+CSS+|+Javascript+|+Bootstrap;MySQL+|+PHP+|+Laravel" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Building+Modern+Websites;HTML+|+CSS+|+Javascript+|+Bootstrap;MySQL+|+PHP+|+Laravel" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I am a **Frontend Web Developer**
+- 🌱 I am a **Full Stack Developer**
 - 🚀 Passionate about building **modern & responsive websites**
 - 📍 Based in **Pakistan**
 
